@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76faa5d5-8cf3-4c91-b36c-cc16028ae1ce)Deploy Netflix Clone on AWS with Jenkins - DevSecOps Project
+Deploy Netflix Clone on AWS with Jenkins - DevSecOps Project
 
 ![image](https://github.com/user-attachments/assets/54d3aa7d-e9f3-4690-afd2-938abb841c7a)
 
