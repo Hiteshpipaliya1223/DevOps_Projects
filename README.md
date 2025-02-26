@@ -1,8 +1,10 @@
 Deploy Netflix Clone on AWS with Jenkins - DevSecOps Project
 
+Hello guys, we will be rolling out a Netflix clone. We will be using Jenkins as our CICD tool and deploying our application to a Docker container and Kubernetes Cluster and monitoring the Jenkins and Kubernetes metrics via Grafana, Prometheus and Node exporter. I Hope this informative blog proves useful.
+
 ![image](https://github.com/user-attachments/assets/54d3aa7d-e9f3-4690-afd2-938abb841c7a)
 
-Hello guys, we will be rolling out a Netflix clone. We will be using Jenkins as our CICD tool and deploying our application to a Docker container and Kubernetes Cluster and monitoring the Jenkins and Kubernetes metrics via Grafana, Prometheus and Node exporter. I Hope this informative blog proves useful.
+
 Phase 1: Initial Setup and Deployment
 Step 1: Launch EC2 (Ubuntu)
 Launch an AWS T2 Large Instance. Use the image as Ubuntu. You can create a new key pair or reuse an old one. Put HTTP and HTTPS settings in Security Group and keep all ports open (not healthy to leave all ports open but for learning purpose it's alright).
